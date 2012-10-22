@@ -12,3 +12,11 @@ C:\Users\GAKeener\AppData\Local\Temporary Projects\CellPhone\obj\x86\Debug\CellP
 \\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\CellPhone\CellPhone\obj\x86\Debug\CellPhone.exe
 \\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\CellPhone\CellPhone\obj\x86\Debug\CellPhone.xml
 \\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\CellPhone\CellPhone\obj\x86\Debug\CellPhone.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\CellPhone\CellPhone\bin\Debug\CellPhone.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\CellPhone\CellPhone\bin\Debug\CellPhone.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\CellPhone\CellPhone\bin\Debug\CellPhone.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\CellPhone\CellPhone\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\CellPhone\CellPhone\obj\x86\Debug\CellPhone.Form1.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\CellPhone\CellPhone\obj\x86\Debug\CellPhone.Resources.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\CellPhone\CellPhone\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\CellPhone\CellPhone\obj\x86\Debug\GenerateResource.write.1.tlog
