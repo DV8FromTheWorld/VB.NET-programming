@@ -1,0 +1,22 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyGrades\bin\Debug\MyGrades.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyGrades\bin\Debug\MyGrades.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyGrades\bin\Debug\MyGrades.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyGrades\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyGrades\obj\x86\Debug\MyGrades.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyGrades\obj\x86\Debug\MyGrades.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyGrades\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyGrades\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyGrades\obj\x86\Debug\MyGrades.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyGrades\obj\x86\Debug\MyGrades.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyGrades\obj\x86\Debug\MyGrades.pdb
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyGrades\MyGrades\obj\x86\Debug\MyGrades.exe
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyGrades\MyGrades\obj\x86\Debug\MyGrades.xml
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyGrades\MyGrades\obj\x86\Debug\MyGrades.pdb
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyGrades\MyGrades\bin\Debug\MyGrades.exe
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyGrades\MyGrades\bin\Debug\MyGrades.pdb
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyGrades\MyGrades\bin\Debug\MyGrades.xml
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyGrades\MyGrades\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyGrades\MyGrades\obj\x86\Debug\MyGrades.Form1.resources
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyGrades\MyGrades\obj\x86\Debug\MyGrades.Resources.resources
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyGrades\MyGrades\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyGrades\MyGrades\obj\x86\Debug\GenerateResource.write.1.tlog

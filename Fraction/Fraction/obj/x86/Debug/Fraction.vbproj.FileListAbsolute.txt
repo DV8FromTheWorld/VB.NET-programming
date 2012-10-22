@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Fraction\bin\Debug\Fraction.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Fraction\bin\Debug\Fraction.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Fraction\bin\Debug\Fraction.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Fraction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Fraction\obj\x86\Debug\Fraction.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Fraction\obj\x86\Debug\Fraction.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Fraction\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Fraction\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Fraction\obj\x86\Debug\Fraction.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Fraction\obj\x86\Debug\Fraction.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Fraction\obj\x86\Debug\Fraction.pdb

@@ -1,0 +1,14 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Summing\bin\Debug\Summing.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Summing\bin\Debug\Summing.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Summing\bin\Debug\Summing.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Summing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Summing\obj\x86\Debug\Summing.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Summing\obj\x86\Debug\Summing.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Summing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Summing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Summing\obj\x86\Debug\Summing.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Summing\obj\x86\Debug\Summing.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Summing\obj\x86\Debug\Summing.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Summing\Summing\obj\x86\Debug\Summing.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Summing\Summing\obj\x86\Debug\Summing.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Summing\Summing\obj\x86\Debug\Summing.pdb

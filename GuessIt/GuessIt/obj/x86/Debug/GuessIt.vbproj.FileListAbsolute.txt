@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\GuessIt\bin\Debug\GuessIt.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\GuessIt\bin\Debug\GuessIt.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\GuessIt\bin\Debug\GuessIt.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\GuessIt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\GuessIt\obj\x86\Debug\GuessIt.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\GuessIt\obj\x86\Debug\GuessIt.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\GuessIt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\GuessIt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\GuessIt\obj\x86\Debug\GuessIt.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\GuessIt\obj\x86\Debug\GuessIt.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\GuessIt\obj\x86\Debug\GuessIt.pdb

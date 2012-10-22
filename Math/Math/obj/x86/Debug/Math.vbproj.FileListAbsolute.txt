@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Math\bin\Debug\Math.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Math\bin\Debug\Math.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Math\bin\Debug\Math.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Math\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Math\obj\x86\Debug\Math.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Math\obj\x86\Debug\Math.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Math\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Math\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Math\obj\x86\Debug\Math.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Math\obj\x86\Debug\Math.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Math\obj\x86\Debug\Math.pdb

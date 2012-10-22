@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\QuickCuts\bin\Debug\QuickCuts.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\QuickCuts\bin\Debug\QuickCuts.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\QuickCuts\bin\Debug\QuickCuts.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\QuickCuts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\QuickCuts\obj\x86\Debug\QuickCuts.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\QuickCuts\obj\x86\Debug\QuickCuts.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\QuickCuts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\QuickCuts\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\QuickCuts\obj\x86\Debug\QuickCuts.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\QuickCuts\obj\x86\Debug\QuickCuts.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\QuickCuts\obj\x86\Debug\QuickCuts.pdb

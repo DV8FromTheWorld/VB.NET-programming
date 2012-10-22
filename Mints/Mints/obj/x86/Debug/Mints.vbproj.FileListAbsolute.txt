@@ -1,0 +1,22 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Mints\bin\Debug\Mints.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Mints\bin\Debug\Mints.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Mints\bin\Debug\Mints.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Mints\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Mints\obj\x86\Debug\Mints.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Mints\obj\x86\Debug\Mints.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Mints\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Mints\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Mints\obj\x86\Debug\Mints.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Mints\obj\x86\Debug\Mints.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Mints\obj\x86\Debug\Mints.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Mints\Mints\obj\x86\Debug\Mints.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Mints\Mints\obj\x86\Debug\Mints.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Mints\Mints\obj\x86\Debug\Mints.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Mints\Mints\bin\Debug\Mints.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Mints\Mints\bin\Debug\Mints.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Mints\Mints\bin\Debug\Mints.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Mints\Mints\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Mints\Mints\obj\x86\Debug\Mints.Form1.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Mints\Mints\obj\x86\Debug\Mints.Resources.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Mints\Mints\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Mints\Mints\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,22 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Pizza\bin\Debug\Pizza.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Pizza\bin\Debug\Pizza.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Pizza\bin\Debug\Pizza.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Pizza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Pizza\obj\x86\Debug\Pizza.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Pizza\obj\x86\Debug\Pizza.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Pizza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Pizza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Pizza\obj\x86\Debug\Pizza.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Pizza\obj\x86\Debug\Pizza.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Pizza\obj\x86\Debug\Pizza.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\Pizza.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\Pizza.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\Pizza.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Pizza\Pizza\bin\Debug\Pizza.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Pizza\Pizza\bin\Debug\Pizza.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Pizza\Pizza\bin\Debug\Pizza.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\Pizza.Form1.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\Pizza.Resources.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\GenerateResource.write.1.tlog

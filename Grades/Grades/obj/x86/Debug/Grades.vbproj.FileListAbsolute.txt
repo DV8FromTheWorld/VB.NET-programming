@@ -1,0 +1,14 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Grades\bin\Debug\Grades.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Grades\bin\Debug\Grades.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Grades\bin\Debug\Grades.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Grades\Grades\obj\x86\Debug\Grades.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Grades\Grades\obj\x86\Debug\Grades.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Grades\Grades\obj\x86\Debug\Grades.pdb
