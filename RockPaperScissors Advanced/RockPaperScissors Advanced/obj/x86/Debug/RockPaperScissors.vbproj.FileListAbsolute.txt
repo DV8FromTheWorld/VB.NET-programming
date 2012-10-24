@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors\obj\x86\Debug\RockPaperScissors.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors\obj\x86\Debug\RockPaperScissors.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors\obj\x86\Debug\RockPaperScissors.pdb
