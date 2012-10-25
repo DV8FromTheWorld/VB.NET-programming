@@ -22,24 +22,40 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.btnGo = New System.Windows.Forms.Button()
+        Me.lblCounterDisplay = New System.Windows.Forms.Label()
         Me.grpChoices = New System.Windows.Forms.GroupBox()
         Me.radScissors = New System.Windows.Forms.RadioButton()
         Me.radPaper = New System.Windows.Forms.RadioButton()
         Me.radRock = New System.Windows.Forms.RadioButton()
-        Me.lblCounterDisplay = New System.Windows.Forms.Label()
-        Me.btnGo = New System.Windows.Forms.Button()
         Me.grpChoices.SuspendLayout()
         Me.SuspendLayout()
+        '
+        'btnGo
+        '
+        Me.btnGo.Location = New System.Drawing.Point(89, 195)
+        Me.btnGo.Name = "btnGo"
+        Me.btnGo.Size = New System.Drawing.Size(102, 35)
+        Me.btnGo.TabIndex = 5
+        Me.btnGo.Text = "Go!"
+        Me.btnGo.UseVisualStyleBackColor = True
+        '
+        'lblCounterDisplay
+        '
+        Me.lblCounterDisplay.Location = New System.Drawing.Point(39, 119)
+        Me.lblCounterDisplay.Name = "lblCounterDisplay"
+        Me.lblCounterDisplay.Size = New System.Drawing.Size(207, 52)
+        Me.lblCounterDisplay.TabIndex = 4
         '
         'grpChoices
         '
         Me.grpChoices.Controls.Add(Me.radScissors)
         Me.grpChoices.Controls.Add(Me.radPaper)
         Me.grpChoices.Controls.Add(Me.radRock)
-        Me.grpChoices.Location = New System.Drawing.Point(38, 34)
+        Me.grpChoices.Location = New System.Drawing.Point(38, 33)
         Me.grpChoices.Name = "grpChoices"
         Me.grpChoices.Size = New System.Drawing.Size(209, 70)
-        Me.grpChoices.TabIndex = 0
+        Me.grpChoices.TabIndex = 3
         Me.grpChoices.TabStop = False
         Me.grpChoices.Text = "Choose Your Throw"
         '
@@ -73,22 +89,6 @@ Partial Class Form1
         Me.radRock.Text = "Rock"
         Me.radRock.UseVisualStyleBackColor = True
         '
-        'lblCounterDisplay
-        '
-        Me.lblCounterDisplay.Location = New System.Drawing.Point(39, 120)
-        Me.lblCounterDisplay.Name = "lblCounterDisplay"
-        Me.lblCounterDisplay.Size = New System.Drawing.Size(207, 52)
-        Me.lblCounterDisplay.TabIndex = 1
-        '
-        'btnGo
-        '
-        Me.btnGo.Location = New System.Drawing.Point(89, 196)
-        Me.btnGo.Name = "btnGo"
-        Me.btnGo.Size = New System.Drawing.Size(102, 35)
-        Me.btnGo.TabIndex = 2
-        Me.btnGo.Text = "Go!"
-        Me.btnGo.UseVisualStyleBackColor = True
-        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -104,11 +104,11 @@ Partial Class Form1
         Me.ResumeLayout(False)
 
     End Sub
+    Friend WithEvents btnGo As System.Windows.Forms.Button
+    Friend WithEvents lblCounterDisplay As System.Windows.Forms.Label
     Friend WithEvents grpChoices As System.Windows.Forms.GroupBox
     Friend WithEvents radScissors As System.Windows.Forms.RadioButton
     Friend WithEvents radPaper As System.Windows.Forms.RadioButton
     Friend WithEvents radRock As System.Windows.Forms.RadioButton
-    Friend WithEvents lblCounterDisplay As System.Windows.Forms.Label
-    Friend WithEvents btnGo As System.Windows.Forms.Button
 
 End Class

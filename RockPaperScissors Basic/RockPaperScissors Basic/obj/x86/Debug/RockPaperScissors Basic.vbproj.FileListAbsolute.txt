@@ -1,0 +1,22 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors Basic\bin\Debug\RockPaperScissors Basic.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors Basic\bin\Debug\RockPaperScissors Basic.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors Basic\bin\Debug\RockPaperScissors Basic.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors Basic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors Basic\obj\x86\Debug\RockPaperScissors_Basic.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors Basic\obj\x86\Debug\RockPaperScissors_Basic.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors Basic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors Basic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors Basic\obj\x86\Debug\RockPaperScissors Basic.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors Basic\obj\x86\Debug\RockPaperScissors Basic.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\RockPaperScissors Basic\obj\x86\Debug\RockPaperScissors Basic.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\RockPaperScissors Basic\RockPaperScissors Basic\obj\x86\Debug\RockPaperScissors Basic.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\RockPaperScissors Basic\RockPaperScissors Basic\obj\x86\Debug\RockPaperScissors Basic.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\RockPaperScissors Basic\RockPaperScissors Basic\obj\x86\Debug\RockPaperScissors Basic.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\RockPaperScissors Basic\RockPaperScissors Basic\bin\Debug\RockPaperScissors Basic.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\RockPaperScissors Basic\RockPaperScissors Basic\bin\Debug\RockPaperScissors Basic.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\RockPaperScissors Basic\RockPaperScissors Basic\bin\Debug\RockPaperScissors Basic.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\RockPaperScissors Basic\RockPaperScissors Basic\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\RockPaperScissors Basic\RockPaperScissors Basic\obj\x86\Debug\RockPaperScissors_Basic.Form1.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\RockPaperScissors Basic\RockPaperScissors Basic\obj\x86\Debug\RockPaperScissors_Basic.Resources.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\RockPaperScissors Basic\RockPaperScissors Basic\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\RockPaperScissors Basic\RockPaperScissors Basic\obj\x86\Debug\GenerateResource.write.1.tlog
