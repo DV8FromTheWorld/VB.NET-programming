@@ -1,16 +1,12 @@
 ﻿Public Class Form1
     'Austin Keener
-    '
+    'Doughnut Order
 
     Dim intDoughnutAmount As Integer = 0
     Dim orderPrice As Double = 0.0
     Dim dblPricePerDoughnut As Double = 0.0
     Dim strDoughnutType As String = ""
     Dim strDoughnutPrice As String = ""
-
-    Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-
-    End Sub
 
     Private Sub btnOrder_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnOrder.Click
         'This If statment calls the function "checkValidOrder". 
@@ -21,6 +17,7 @@
 
     End Sub
 
+    'Method called when the radGlazed radio button is checked or u
     Private Sub radGlazed_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles radGlazed.CheckedChanged
         updateOrderVariables("glazed", "$.50", 0.5)
 
@@ -42,14 +39,13 @@
     End Sub
 
     Private Sub txtAmount_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtAmount.TextChanged
-        ' Try
-        'intDoughnutAmount = txtAmount.Text
-        'updateOrderDisplay()
-        'Catch ex As Exception
-        'intDoughnutAmount = 0
-        'updateOrderDisplay()
-        'End Try
-        intDoughnutAmount = txtAmount.Text
+        Try
+            intDoughnutAmount = txtAmount.Text
+            updateOrderDisplay()
+        Catch ex As Exception
+            intDoughnutAmount = 0
+            updateOrderDisplay()
+        End Try
     End Sub
 
     Public Sub updateOrderVariables(ByVal doughnutType As String, ByVal doughnutPriceString As String, ByVal doughnutPricePerEach As Double)
@@ -67,7 +63,6 @@
             "Including 7.5% tax, your total cost is " & orderPrice.ToString("$##.00")
     End Sub
 
-    '
     Public Function checkValidOrder() As Boolean
         If radBlueberry.Checked Or radChocolate.Checked Or radGlazed.Checked Or radLemon.Checked Then
             If intDoughnutAmount.Equals(0) Then
@@ -81,8 +76,4 @@
             Return False
         End If
     End Function
-
-    Private Sub lblDisplayOrder_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblDisplayOrder.Click
-
-    End Sub
 End Class

@@ -1,0 +1,22 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\PowerOf2\bin\Debug\PowerOf2.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\PowerOf2\bin\Debug\PowerOf2.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\PowerOf2\bin\Debug\PowerOf2.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\PowerOf2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\PowerOf2\obj\x86\Debug\PowerOf2.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\PowerOf2\obj\x86\Debug\PowerOf2.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\PowerOf2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\PowerOf2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\PowerOf2\obj\x86\Debug\PowerOf2.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\PowerOf2\obj\x86\Debug\PowerOf2.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\PowerOf2\obj\x86\Debug\PowerOf2.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\PowerOf2\PowerOf2\obj\x86\Debug\PowerOf2.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\PowerOf2\PowerOf2\obj\x86\Debug\PowerOf2.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\PowerOf2\PowerOf2\obj\x86\Debug\PowerOf2.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\PowerOf2\PowerOf2\bin\Debug\PowerOf2.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\PowerOf2\PowerOf2\bin\Debug\PowerOf2.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\PowerOf2\PowerOf2\bin\Debug\PowerOf2.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\PowerOf2\PowerOf2\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\PowerOf2\PowerOf2\obj\x86\Debug\PowerOf2.Form1.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\PowerOf2\PowerOf2\obj\x86\Debug\PowerOf2.Resources.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\PowerOf2\PowerOf2\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\PowerOf2\PowerOf2\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,22 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Factorial\bin\Debug\Factorial.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Factorial\bin\Debug\Factorial.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Factorial\bin\Debug\Factorial.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.pdb
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Factorial\Factorial\bin\Debug\Factorial.exe
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Factorial\Factorial\bin\Debug\Factorial.pdb
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Factorial\Factorial\bin\Debug\Factorial.xml
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Factorial\Factorial\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Factorial\Factorial\obj\x86\Debug\Factorial.Form1.resources
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Factorial\Factorial\obj\x86\Debug\Factorial.Resources.resources
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Factorial\Factorial\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Factorial\Factorial\obj\x86\Debug\GenerateResource.write.1.tlog
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Factorial\Factorial\obj\x86\Debug\Factorial.exe
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Factorial\Factorial\obj\x86\Debug\Factorial.xml
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Factorial\Factorial\obj\x86\Debug\Factorial.pdb
