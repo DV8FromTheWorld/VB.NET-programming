@@ -1,0 +1,22 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ConcertTickets\bin\Debug\ConcertTickets.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ConcertTickets\bin\Debug\ConcertTickets.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ConcertTickets\bin\Debug\ConcertTickets.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ConcertTickets\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ConcertTickets\obj\x86\Debug\ConcertTickets.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ConcertTickets\obj\x86\Debug\ConcertTickets.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ConcertTickets\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ConcertTickets\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ConcertTickets\obj\x86\Debug\ConcertTickets.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ConcertTickets\obj\x86\Debug\ConcertTickets.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ConcertTickets\obj\x86\Debug\ConcertTickets.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ConcertTickets\ConcertTickets\obj\x86\Debug\ConcertTickets.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ConcertTickets\ConcertTickets\obj\x86\Debug\ConcertTickets.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ConcertTickets\ConcertTickets\obj\x86\Debug\ConcertTickets.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ConcertTickets\ConcertTickets\bin\Debug\ConcertTickets.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ConcertTickets\ConcertTickets\bin\Debug\ConcertTickets.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ConcertTickets\ConcertTickets\bin\Debug\ConcertTickets.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ConcertTickets\ConcertTickets\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ConcertTickets\ConcertTickets\obj\x86\Debug\ConcertTickets.Form1.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ConcertTickets\ConcertTickets\obj\x86\Debug\ConcertTickets.Resources.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ConcertTickets\ConcertTickets\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ConcertTickets\ConcertTickets\obj\x86\Debug\GenerateResource.write.1.tlog

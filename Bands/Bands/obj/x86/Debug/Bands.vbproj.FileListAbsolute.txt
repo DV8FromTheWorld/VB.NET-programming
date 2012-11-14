@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\bin\Debug\Bands.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\bin\Debug\Bands.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\bin\Debug\Bands.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\Bands.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\Bands.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\Bands.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\Bands.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\Bands.pdb

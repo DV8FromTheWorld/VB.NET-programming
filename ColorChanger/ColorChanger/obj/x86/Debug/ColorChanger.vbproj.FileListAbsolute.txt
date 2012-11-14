@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ColorChanger\bin\Debug\ColorChanger.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ColorChanger\bin\Debug\ColorChanger.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ColorChanger\bin\Debug\ColorChanger.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ColorChanger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ColorChanger\obj\x86\Debug\ColorChanger.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ColorChanger\obj\x86\Debug\ColorChanger.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ColorChanger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ColorChanger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ColorChanger\obj\x86\Debug\ColorChanger.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ColorChanger\obj\x86\Debug\ColorChanger.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ColorChanger\obj\x86\Debug\ColorChanger.pdb

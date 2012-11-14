@@ -1,0 +1,22 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\BirthdayPresents\bin\Debug\BirthdayPresents.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\BirthdayPresents\bin\Debug\BirthdayPresents.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\BirthdayPresents\bin\Debug\BirthdayPresents.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\BirthdayPresents\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\BirthdayPresents\obj\x86\Debug\BirthdayPresents.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\BirthdayPresents\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\BirthdayPresents\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\BirthdayPresents\obj\x86\Debug\BirthdayPresents.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\BirthdayPresents\obj\x86\Debug\BirthdayPresents.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\BirthdayPresents\obj\x86\Debug\BirthdayPresents.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\BirthdayPresents\obj\x86\Debug\BirthdayPresents.Form1.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\BirthdayPresents\BirthdayPresents\obj\x86\Debug\BirthdayPresents.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\BirthdayPresents\BirthdayPresents\obj\x86\Debug\BirthdayPresents.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\BirthdayPresents\BirthdayPresents\obj\x86\Debug\BirthdayPresents.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\BirthdayPresents\BirthdayPresents\bin\Debug\BirthdayPresents.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\BirthdayPresents\BirthdayPresents\bin\Debug\BirthdayPresents.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\BirthdayPresents\BirthdayPresents\bin\Debug\BirthdayPresents.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\BirthdayPresents\BirthdayPresents\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\BirthdayPresents\BirthdayPresents\obj\x86\Debug\BirthdayPresents.Form1.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\BirthdayPresents\BirthdayPresents\obj\x86\Debug\BirthdayPresents.Resources.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\BirthdayPresents\BirthdayPresents\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\BirthdayPresents\BirthdayPresents\obj\x86\Debug\GenerateResource.write.1.tlog

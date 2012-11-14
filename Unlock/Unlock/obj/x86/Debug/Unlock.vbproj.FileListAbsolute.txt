@@ -9,3 +9,6 @@ C:\Users\GAKeener\AppData\Local\Temporary Projects\Unlock\obj\x86\Debug\Generate
 C:\Users\GAKeener\AppData\Local\Temporary Projects\Unlock\obj\x86\Debug\Unlock.exe
 C:\Users\GAKeener\AppData\Local\Temporary Projects\Unlock\obj\x86\Debug\Unlock.xml
 C:\Users\GAKeener\AppData\Local\Temporary Projects\Unlock\obj\x86\Debug\Unlock.pdb
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Unlock\Unlock\obj\x86\Debug\Unlock.exe
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Unlock\Unlock\obj\x86\Debug\Unlock.xml
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Unlock\Unlock\obj\x86\Debug\Unlock.pdb
