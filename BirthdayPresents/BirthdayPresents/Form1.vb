@@ -1,7 +1,7 @@
 ﻿Public Class Form1
     'Austin Keener
-    'Birthday Presents
     '11/13/2012
+    'Birthday Presents
 
     'Executed when the button is clicked
     Private Sub bntPresents_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles bntPresents.Click

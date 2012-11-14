@@ -9,3 +9,6 @@ C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\GenerateR
 C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\Bands.exe
 C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\Bands.xml
 C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\Bands.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Bands\Bands\obj\x86\Debug\Bands.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Bands\Bands\obj\x86\Debug\Bands.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Bands\Bands\obj\x86\Debug\Bands.pdb

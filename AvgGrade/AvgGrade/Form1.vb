@@ -1,7 +1,8 @@
 ﻿Public Class Form1
     'Austin Keener
-    '11/9/2012
     'AvgGrade
+    '11/9/2012
+
 
     'Exectutes when the Average Button is clicked
     Private Sub btnAverage_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnAverage.Click

@@ -1,7 +1,7 @@
 ﻿Public Class Form1
     'Austin Keener
-    'Color Changer
     '11/13/2012
+    'Color Changer
 
 
     Private Sub mnuRed_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuRed.Click

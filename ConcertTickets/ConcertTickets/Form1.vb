@@ -1,4 +1,9 @@
 ﻿Public Class Form1
+    'Austin Keener
+    '11/13/2012
+    'ConcertTickets
+
+
     'Initializes the variables used.
     Dim blnEventSelected As Boolean = False
     Dim blnTicketSelected As Boolean = False

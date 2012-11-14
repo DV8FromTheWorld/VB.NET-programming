@@ -1,8 +1,7 @@
 ﻿Public Class Form1
     'Austin Keener
-    'Bands
     '11/13/2012
-
+    'Bands
 
     Private Sub mnuDragonForce_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuDragonForce.Click
         lblDisplay.Text = _

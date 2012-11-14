@@ -9,3 +9,6 @@ C:\Users\GAKeener\AppData\Local\Temporary Projects\ColorChanger\obj\x86\Debug\Ge
 C:\Users\GAKeener\AppData\Local\Temporary Projects\ColorChanger\obj\x86\Debug\ColorChanger.exe
 C:\Users\GAKeener\AppData\Local\Temporary Projects\ColorChanger\obj\x86\Debug\ColorChanger.xml
 C:\Users\GAKeener\AppData\Local\Temporary Projects\ColorChanger\obj\x86\Debug\ColorChanger.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ColorChanger\ColorChanger\obj\x86\Debug\ColorChanger.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ColorChanger\ColorChanger\obj\x86\Debug\ColorChanger.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ColorChanger\ColorChanger\obj\x86\Debug\ColorChanger.pdb
