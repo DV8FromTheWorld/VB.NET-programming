@@ -1,0 +1,22 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\LunchTime\bin\Debug\LunchTime.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\LunchTime\bin\Debug\LunchTime.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\LunchTime\bin\Debug\LunchTime.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\LunchTime\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\LunchTime\obj\x86\Debug\LunchTime.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\LunchTime\obj\x86\Debug\LunchTime.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\LunchTime\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\LunchTime\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\LunchTime\obj\x86\Debug\LunchTime.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\LunchTime\obj\x86\Debug\LunchTime.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\LunchTime\obj\x86\Debug\LunchTime.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\LunchTime\LunchTime\obj\x86\Debug\LunchTime.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\LunchTime\LunchTime\obj\x86\Debug\LunchTime.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\LunchTime\LunchTime\obj\x86\Debug\LunchTime.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\LunchTime\LunchTime\bin\Debug\LunchTime.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\LunchTime\LunchTime\bin\Debug\LunchTime.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\LunchTime\LunchTime\bin\Debug\LunchTime.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\LunchTime\LunchTime\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\LunchTime\LunchTime\obj\x86\Debug\LunchTime.Form1.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\LunchTime\LunchTime\obj\x86\Debug\LunchTime.Resources.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\LunchTime\LunchTime\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\LunchTime\LunchTime\obj\x86\Debug\GenerateResource.write.1.tlog
