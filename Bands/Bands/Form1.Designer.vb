@@ -29,6 +29,7 @@ Partial Class Form1
         Me.mnuProtomen = New System.Windows.Forms.ToolStripMenuItem()
         Me.mnuClose = New System.Windows.Forms.ToolStripMenuItem()
         Me.lblDisplay = New System.Windows.Forms.Label()
+        Me.mnuAbout = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -43,7 +44,7 @@ Partial Class Form1
         '
         'mnuMain
         '
-        Me.mnuMain.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuDragonForce, Me.mnuNightwish, Me.mnuProtomen, Me.mnuClose})
+        Me.mnuMain.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuDragonForce, Me.mnuNightwish, Me.mnuProtomen, Me.mnuAbout, Me.mnuClose})
         Me.mnuMain.Name = "mnuMain"
         Me.mnuMain.Size = New System.Drawing.Size(46, 20)
         Me.mnuMain.Text = "Main"
@@ -79,6 +80,12 @@ Partial Class Form1
         Me.lblDisplay.Size = New System.Drawing.Size(249, 153)
         Me.lblDisplay.TabIndex = 1
         '
+        'mnuAbout
+        '
+        Me.mnuAbout.Name = "mnuAbout"
+        Me.mnuAbout.Size = New System.Drawing.Size(152, 22)
+        Me.mnuAbout.Text = "About"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -102,5 +109,6 @@ Partial Class Form1
     Friend WithEvents mnuProtomen As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents mnuClose As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents lblDisplay As System.Windows.Forms.Label
+    Friend WithEvents mnuAbout As System.Windows.Forms.ToolStripMenuItem
 
 End Class
