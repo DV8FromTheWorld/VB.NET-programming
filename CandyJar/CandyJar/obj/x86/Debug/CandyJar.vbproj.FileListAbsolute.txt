@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CandyJar\bin\Debug\CandyJar.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CandyJar\bin\Debug\CandyJar.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CandyJar\bin\Debug\CandyJar.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CandyJar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CandyJar\obj\x86\Debug\CandyJar.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CandyJar\obj\x86\Debug\CandyJar.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CandyJar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CandyJar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CandyJar\obj\x86\Debug\CandyJar.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CandyJar\obj\x86\Debug\CandyJar.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CandyJar\obj\x86\Debug\CandyJar.pdb

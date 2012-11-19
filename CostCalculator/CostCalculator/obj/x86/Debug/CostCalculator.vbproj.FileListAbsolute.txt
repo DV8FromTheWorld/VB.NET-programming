@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CostCalculator\bin\Debug\CostCalculator.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CostCalculator\bin\Debug\CostCalculator.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CostCalculator\bin\Debug\CostCalculator.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CostCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CostCalculator\obj\x86\Debug\CostCalculator.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CostCalculator\obj\x86\Debug\CostCalculator.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CostCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CostCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CostCalculator\obj\x86\Debug\CostCalculator.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CostCalculator\obj\x86\Debug\CostCalculator.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\CostCalculator\obj\x86\Debug\CostCalculator.pdb
