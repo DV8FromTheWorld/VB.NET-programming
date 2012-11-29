@@ -1,0 +1,14 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ShakespeareanInsults\bin\Debug\ShakespeareanInsults.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ShakespeareanInsults\bin\Debug\ShakespeareanInsults.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ShakespeareanInsults\bin\Debug\ShakespeareanInsults.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ShakespeareanInsults\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ShakespeareanInsults\obj\x86\Debug\ShakespeareanInsults.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ShakespeareanInsults\obj\x86\Debug\ShakespeareanInsults.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ShakespeareanInsults\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ShakespeareanInsults\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ShakespeareanInsults\obj\x86\Debug\ShakespeareanInsults.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ShakespeareanInsults\obj\x86\Debug\ShakespeareanInsults.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\ShakespeareanInsults\obj\x86\Debug\ShakespeareanInsults.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ShakespeareanInsults\ShakespeareanInsults\obj\x86\Debug\ShakespeareanInsults.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ShakespeareanInsults\ShakespeareanInsults\obj\x86\Debug\ShakespeareanInsults.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\ShakespeareanInsults\ShakespeareanInsults\obj\x86\Debug\ShakespeareanInsults.pdb

@@ -8,7 +8,6 @@
 
     'Executed when the Guess button is clicked.
     Private Sub btnGuess_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnGuess.Click
-        lblDisplay.Text = ""
         If Int32.TryParse(txtGuess.Text, intGuess) Then     'Attempts to convert the string given by the textbox to an integer and returns a boolean value based on conversion success.
             Select Case intGuess
                 Case 0 To 236

@@ -9,3 +9,6 @@ C:\Users\GAKeener\AppData\Local\Temporary Projects\CandyJar\obj\x86\Debug\Genera
 C:\Users\GAKeener\AppData\Local\Temporary Projects\CandyJar\obj\x86\Debug\CandyJar.exe
 C:\Users\GAKeener\AppData\Local\Temporary Projects\CandyJar\obj\x86\Debug\CandyJar.xml
 C:\Users\GAKeener\AppData\Local\Temporary Projects\CandyJar\obj\x86\Debug\CandyJar.pdb
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\CandyJar\CandyJar\obj\x86\Debug\CandyJar.exe
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\CandyJar\CandyJar\obj\x86\Debug\CandyJar.xml
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\CandyJar\CandyJar\obj\x86\Debug\CandyJar.pdb
