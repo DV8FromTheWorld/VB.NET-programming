@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\SortNums\bin\Debug\SortNums.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\SortNums\bin\Debug\SortNums.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\SortNums\bin\Debug\SortNums.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\SortNums\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\SortNums\obj\x86\Debug\SortNums.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\SortNums\obj\x86\Debug\SortNums.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\SortNums\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\SortNums\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\SortNums\obj\x86\Debug\SortNums.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\SortNums\obj\x86\Debug\SortNums.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\SortNums\obj\x86\Debug\SortNums.pdb

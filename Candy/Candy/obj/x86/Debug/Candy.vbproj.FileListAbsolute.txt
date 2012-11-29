@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Candy\bin\Debug\Candy.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Candy\bin\Debug\Candy.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Candy\bin\Debug\Candy.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Candy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Candy\obj\x86\Debug\Candy.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Candy\obj\x86\Debug\Candy.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Candy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Candy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Candy\obj\x86\Debug\Candy.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Candy\obj\x86\Debug\Candy.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Candy\obj\x86\Debug\Candy.pdb
