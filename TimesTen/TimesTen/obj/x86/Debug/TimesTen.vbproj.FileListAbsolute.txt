@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TimesTen\bin\Debug\TimesTen.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TimesTen\bin\Debug\TimesTen.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TimesTen\bin\Debug\TimesTen.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TimesTen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TimesTen\obj\x86\Debug\TimesTen.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TimesTen\obj\x86\Debug\TimesTen.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TimesTen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TimesTen\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TimesTen\obj\x86\Debug\TimesTen.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TimesTen\obj\x86\Debug\TimesTen.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TimesTen\obj\x86\Debug\TimesTen.pdb
