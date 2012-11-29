@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Signature\bin\Debug\Signature.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Signature\bin\Debug\Signature.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Signature\bin\Debug\Signature.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Signature\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Signature\obj\x86\Debug\Signature.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Signature\obj\x86\Debug\Signature.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Signature\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Signature\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Signature\obj\x86\Debug\Signature.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Signature\obj\x86\Debug\Signature.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Signature\obj\x86\Debug\Signature.pdb
