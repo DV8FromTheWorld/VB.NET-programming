@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Savings\bin\Debug\Savings.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Savings\bin\Debug\Savings.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Savings\bin\Debug\Savings.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Savings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Savings\obj\x86\Debug\Savings.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Savings\obj\x86\Debug\Savings.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Savings\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Savings\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Savings\obj\x86\Debug\Savings.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Savings\obj\x86\Debug\Savings.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Savings\obj\x86\Debug\Savings.pdb
