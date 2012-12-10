@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\DrawCards\bin\Debug\DrawCards.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\DrawCards\bin\Debug\DrawCards.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\DrawCards\bin\Debug\DrawCards.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\DrawCards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\DrawCards\obj\x86\Debug\DrawCards.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\DrawCards\obj\x86\Debug\DrawCards.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\DrawCards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\DrawCards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\DrawCards\obj\x86\Debug\DrawCards.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\DrawCards\obj\x86\Debug\DrawCards.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\DrawCards\obj\x86\Debug\DrawCards.pdb
