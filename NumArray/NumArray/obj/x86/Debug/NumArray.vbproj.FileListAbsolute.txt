@@ -1,0 +1,14 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NumArray\bin\Debug\NumArray.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NumArray\bin\Debug\NumArray.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NumArray\bin\Debug\NumArray.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NumArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NumArray\obj\x86\Debug\NumArray.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NumArray\obj\x86\Debug\NumArray.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NumArray\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NumArray\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NumArray\obj\x86\Debug\NumArray.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NumArray\obj\x86\Debug\NumArray.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NumArray\obj\x86\Debug\NumArray.pdb
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\NumArray\NumArray\obj\x86\Debug\NumArray.exe
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\NumArray\NumArray\obj\x86\Debug\NumArray.xml
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\NumArray\NumArray\obj\x86\Debug\NumArray.pdb

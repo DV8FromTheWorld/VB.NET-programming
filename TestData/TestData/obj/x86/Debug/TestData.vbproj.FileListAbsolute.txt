@@ -1,0 +1,14 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TestData\bin\Debug\TestData.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TestData\bin\Debug\TestData.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TestData\bin\Debug\TestData.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TestData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TestData\obj\x86\Debug\TestData.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TestData\obj\x86\Debug\TestData.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TestData\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TestData\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TestData\obj\x86\Debug\TestData.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TestData\obj\x86\Debug\TestData.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\TestData\obj\x86\Debug\TestData.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\TestData\TestData\obj\x86\Debug\TestData.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\TestData\TestData\obj\x86\Debug\TestData.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\TestData\TestData\obj\x86\Debug\TestData.pdb

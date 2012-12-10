@@ -1,0 +1,14 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Rates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Rates\obj\x86\Debug\Rates.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Rates\obj\x86\Debug\Rates.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Rates\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Rates\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Rates\bin\Debug\Rates.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Rates\bin\Debug\Rates.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Rates\bin\Debug\Rates.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Rates\obj\x86\Debug\Rates.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Rates\obj\x86\Debug\Rates.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Rates\obj\x86\Debug\Rates.pdb
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Rates\Rates\obj\x86\Debug\Rates.exe
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Rates\Rates\obj\x86\Debug\Rates.xml
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\Rates\Rates\obj\x86\Debug\Rates.pdb
