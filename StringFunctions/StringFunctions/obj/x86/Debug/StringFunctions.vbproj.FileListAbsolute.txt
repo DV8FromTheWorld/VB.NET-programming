@@ -1,0 +1,22 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\StringFunctions\bin\Debug\StringFunctions.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\StringFunctions\bin\Debug\StringFunctions.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\StringFunctions\bin\Debug\StringFunctions.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\StringFunctions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\StringFunctions\obj\x86\Debug\StringFunctions.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\StringFunctions\obj\x86\Debug\StringFunctions.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\StringFunctions\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\StringFunctions\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\StringFunctions\obj\x86\Debug\StringFunctions.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\StringFunctions\obj\x86\Debug\StringFunctions.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\StringFunctions\obj\x86\Debug\StringFunctions.pdb
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\StringFunctions\StringFunctions\obj\x86\Debug\StringFunctions.exe
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\StringFunctions\StringFunctions\obj\x86\Debug\StringFunctions.xml
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\StringFunctions\StringFunctions\obj\x86\Debug\StringFunctions.pdb
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\StringFunctions\StringFunctions\bin\Debug\StringFunctions.exe
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\StringFunctions\StringFunctions\bin\Debug\StringFunctions.pdb
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\StringFunctions\StringFunctions\bin\Debug\StringFunctions.xml
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\StringFunctions\StringFunctions\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\StringFunctions\StringFunctions\obj\x86\Debug\StringFunctions.Form1.resources
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\StringFunctions\StringFunctions\obj\x86\Debug\StringFunctions.Resources.resources
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\StringFunctions\StringFunctions\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\StringFunctions\StringFunctions\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -9,3 +9,6 @@ C:\Users\GAKeener\AppData\Local\Temporary Projects\RandomNums\obj\x86\Debug\Gene
 C:\Users\GAKeener\AppData\Local\Temporary Projects\RandomNums\obj\x86\Debug\RandomNums.exe
 C:\Users\GAKeener\AppData\Local\Temporary Projects\RandomNums\obj\x86\Debug\RandomNums.xml
 C:\Users\GAKeener\AppData\Local\Temporary Projects\RandomNums\obj\x86\Debug\RandomNums.pdb
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\RandomNums\RandomNums\obj\x86\Debug\RandomNums.exe
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\RandomNums\RandomNums\obj\x86\Debug\RandomNums.xml
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\RandomNums\RandomNums\obj\x86\Debug\RandomNums.pdb
