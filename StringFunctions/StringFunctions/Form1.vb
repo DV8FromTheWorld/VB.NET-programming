@@ -3,6 +3,7 @@
     '12/13/2012
     'String Function
 
+    'Define required variables
     Dim strInput1 As String 
     Dim strInput2 As String
 
@@ -123,19 +124,20 @@
         End If
     End Sub
 
+    'Used be sure that the strings are not empty.
     Private Function checkStrings() As Boolean
         strInput1 = txtString1.Text
         strInput2 = txtString2.Text
-        lblDisplay.Text = ""
-        If Not String.IsNullOrEmpty(strInput1) Then
-            If Not String.IsNullOrEmpty(strInput2) Then
+        lblDisplay.Text = ""                                'resets the label 
+        If Not String.IsNullOrEmpty(strInput1) Then         'Checks to see that the string isnt empty
+            If Not String.IsNullOrEmpty(strInput2) Then     'Checks to see that the string isnt empty
                 Return True
             Else
-                MessageBox.Show("Please enter a string in the second textbox")
+                MessageBox.Show("Please enter a string in the second textbox")      'User Debug
                 Return False
             End If
         Else
-            MessageBox.Show("Please enter a string in the first textbox")
+            MessageBox.Show("Please enter a string in the first textbox")           'User Debug
             Return False
         End If
     End Function
