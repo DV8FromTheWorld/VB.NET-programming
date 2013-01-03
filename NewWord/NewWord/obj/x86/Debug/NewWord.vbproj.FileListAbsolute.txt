@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NewWord\bin\Debug\NewWord.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NewWord\bin\Debug\NewWord.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NewWord\bin\Debug\NewWord.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NewWord\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NewWord\obj\x86\Debug\NewWord.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NewWord\obj\x86\Debug\NewWord.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NewWord\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NewWord\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NewWord\obj\x86\Debug\NewWord.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NewWord\obj\x86\Debug\NewWord.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\NewWord\obj\x86\Debug\NewWord.pdb

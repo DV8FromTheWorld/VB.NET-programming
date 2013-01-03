@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\WhichIsFirst\bin\Debug\WhichIsFirst.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\WhichIsFirst\bin\Debug\WhichIsFirst.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\WhichIsFirst\bin\Debug\WhichIsFirst.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\WhichIsFirst\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\WhichIsFirst\obj\x86\Debug\WhichIsFirst.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\WhichIsFirst\obj\x86\Debug\WhichIsFirst.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\WhichIsFirst\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\WhichIsFirst\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\WhichIsFirst\obj\x86\Debug\WhichIsFirst.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\WhichIsFirst\obj\x86\Debug\WhichIsFirst.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\WhichIsFirst\obj\x86\Debug\WhichIsFirst.pdb

@@ -1,0 +1,11 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyInitials\bin\Debug\MyInitials.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyInitials\bin\Debug\MyInitials.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyInitials\bin\Debug\MyInitials.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyInitials\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyInitials\obj\x86\Debug\MyInitials.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyInitials\obj\x86\Debug\MyInitials.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyInitials\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyInitials\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyInitials\obj\x86\Debug\MyInitials.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyInitials\obj\x86\Debug\MyInitials.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\MyInitials\obj\x86\Debug\MyInitials.pdb
