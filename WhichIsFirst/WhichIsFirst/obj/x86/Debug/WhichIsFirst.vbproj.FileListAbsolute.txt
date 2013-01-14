@@ -9,3 +9,6 @@ C:\Users\GAKeener\AppData\Local\Temporary Projects\WhichIsFirst\obj\x86\Debug\Ge
 C:\Users\GAKeener\AppData\Local\Temporary Projects\WhichIsFirst\obj\x86\Debug\WhichIsFirst.exe
 C:\Users\GAKeener\AppData\Local\Temporary Projects\WhichIsFirst\obj\x86\Debug\WhichIsFirst.xml
 C:\Users\GAKeener\AppData\Local\Temporary Projects\WhichIsFirst\obj\x86\Debug\WhichIsFirst.pdb
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\WhichIsFirst\WhichIsFirst\obj\x86\Debug\WhichIsFirst.exe
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\WhichIsFirst\WhichIsFirst\obj\x86\Debug\WhichIsFirst.xml
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\WhichIsFirst\WhichIsFirst\obj\x86\Debug\WhichIsFirst.pdb
